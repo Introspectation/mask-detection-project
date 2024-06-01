@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/models" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venvv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (mask-detection-project)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
